@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang='uk'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title> Математична магія </title>
+</head>
+<body>
+    <!-- Додай верстку для додатка тут -->
+    <div class= "continer start">
+        <h3 class="continer_h3"></h3>
+        <div class="start-btn"> Почати</div>
+    </div>
+    
+    <div class = 'continer main'>
+        <div class= 'question'> 50 + 50 </div>
+        <div class= "ans-row">
+            <div class="answer"> 60 </div>
+            <div class="answer"> 100 </div>
+            <div class="answer"> 70</div>
+            <div class="answer"> 120 </div>
+            <div class="answer"> 90 </div>
+        </div>
+    </div>
+<script src='https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js' ></script>
+</body>
+</html>
